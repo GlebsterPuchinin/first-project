@@ -1,3 +1,3 @@
-Public class Megamozg{
+Public class main{
 
 }
